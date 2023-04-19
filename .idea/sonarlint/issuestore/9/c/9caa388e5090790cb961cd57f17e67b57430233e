@@ -1,0 +1,10 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¯Ð´.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÊÁšøÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ô µ†
+W
+java:S1126."AReplace this if-then-else statement by a single return statement.(Ä¡Õã
+W
+java:S11263"AReplace this if-then-else statement by a single return statement.(ã¹ºê
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(à·˜±ùÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(‘ŸŽý

@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+I
+java:S2440"'Remove this instantiation of "Account".(åŠ‡şÿÿÿÿ8îÉÒ—é0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›¤öú
+R
+java:S2209"5Change this instance-reference to a static reference.(›¤öú8óÉÒ—é0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤´Ä×øÿÿÿÿ8öüÏ—é0
+W
+java:S2209"5Change this instance-reference to a static reference.(¤´Ä×øÿÿÿÿ8óÉÒ—é0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šÑûıÿÿÿÿ8óÉÒ—é0

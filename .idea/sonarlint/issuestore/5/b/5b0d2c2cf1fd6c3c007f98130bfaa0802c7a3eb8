@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º‘ó–
+C
+java:S1172"(Remove this unused method parameter "x".(´‘Şíşÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(›‚ÉY
+\
+java:S11260"AReplace this if-then-else statement by a single return statement.(°Ö–øÿÿÿÿ
+\
+java:S11265"AReplace this if-then-else statement by a single return statement.(®áÀ§ÿÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(º¼É°
+N	java:S106="9Replace this use of System.out or System.err by a logger.(‘Ÿı

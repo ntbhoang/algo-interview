@@ -1,0 +1,20 @@
+
+2
+java:S1643&"Use a StringBuilder instead.(ÅÕ
+0
+java:S1220""Move this file to a named package.
+œ
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èëé‰úÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Üƒ›şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÿñ§(
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æõÖà
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´Ì›Áúÿÿÿÿ
+\
+java:S1126-"AReplace this if-then-else statement by a single return statement.(ø¬Šøÿÿÿÿ
+c
+java:S1128"ARemove this unused import 'max.luv2code.data_structure_p1.Queue'.(ÂÖÈÊûÿÿÿÿ8Äû»Šé0
+i
+java:S1128"GRemove this unused import 'max.luv2code.data_structure_p1.SimpleQueue'.(²ì´üÿÿÿÿ8Äû»Šé0
+^
+java:S1128"ARemove this unused import 'max.luv2code.data_structure_p1.Stack'.(Ï÷Ç8Äû»Šé0
